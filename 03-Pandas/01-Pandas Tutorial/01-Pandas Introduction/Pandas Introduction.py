@@ -20,8 +20,7 @@ print('---=== Pandas Introduction ===---')
  - Relevant data is very important in data science.
 """
 
-# Data Science:
-# - is a branch of computer science where we study how to store, use and analyze data for deriving information from it.
+# Data Science: is a branch of computer science where we study how to store, use and analyze data for deriving information from it.
 
 """
  What Can Pandas Do?
