@@ -79,7 +79,7 @@ You will see printed output that demonstrates each concept.
 
 ✨ Author
 
-Karo
+created by Karo
 Python learner focusing on Artificial Intelligence (AI).
 
 ⸻
